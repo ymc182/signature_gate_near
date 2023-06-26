@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ymc/Near/SignatureGate/signature_gate/contract/target/wasm32-unknown-unknown/release/build/typenum-afa4fb0a15da52ef/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ymc/Near/SignatureGate/signature_gate/contract/target/wasm32-unknown-unknown/release/build/typenum-afa4fb0a15da52ef/out/op.rs

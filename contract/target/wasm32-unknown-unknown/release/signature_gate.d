@@ -1,1 +1,0 @@
-/Users/ymc/Near/SignatureGate/signature_gate/contract/target/wasm32-unknown-unknown/release/signature_gate.wasm: /Users/ymc/Near/SignatureGate/signature_gate/contract/src/ed25519.rs /Users/ymc/Near/SignatureGate/signature_gate/contract/src/lib.rs
