@@ -1,0 +1,13 @@
+/Users/ymc/Near/SignatureGate/signature_gate/contract/target/debug/deps/quote-2cb0577d02caf145.rmeta: /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs
+
+/Users/ymc/Near/SignatureGate/signature_gate/contract/target/debug/deps/libquote-2cb0577d02caf145.rlib: /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs
+
+/Users/ymc/Near/SignatureGate/signature_gate/contract/target/debug/deps/quote-2cb0577d02caf145.d: /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs /Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs
+
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/lib.rs:
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ext.rs:
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/format.rs:
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/ident_fragment.rs:
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/to_tokens.rs:
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/runtime.rs:
+/Users/ymc/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.28/src/spanned.rs:

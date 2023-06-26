@@ -1,0 +1,1 @@
+{"rustc":15960151841407381252,"features":"[]","target":13751265650658462097,"profile":8987646332441898785,"path":12559223113379405555,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/core-foundation-sys-d697a1c24f60d077/dep-lib-core-foundation-sys"}}],"rustflags":["-C","link-args=-s"],"metadata":7246173313922784557,"config":2202906307356721367,"compile_kind":0}
